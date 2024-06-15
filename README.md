@@ -2,7 +2,7 @@
 
 
 ## Architecture
-![microservice_architecture](https://user-images.githubusercontent.com/46678087/114802958-42c15d80-9da7-11eb-8391-ba0abf87a1b1.png)
+![microservice_architecture](https://i.postimg.cc/m2RLY25t/114802958-42c15d80-9da7-11eb-8391-ba0abf87a1b1-1.png)
 
 ### Technologies
 Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Eventual Consistency, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and DDD (Domain Driven Design) implementation.
